@@ -25,7 +25,7 @@ Para ejecutar el sistema, usar el siguiente comando:
 python proyecto.py
 
 ## Autor
-- Tu nombre completo
+- Jennifer Paola Sanchez Muñoz
 
 ## Nota
 Este proyecto fue desarrollado como parte del curso de Programación.
